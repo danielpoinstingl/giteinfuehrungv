@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Morgwn ist Donnerstag");
         System.out.println("Konflikt");
         System.out.println("Abc");
+        System.out.println("Konflikt2");
         System.out.println("SEW GIT");
         System.out.println("Konflikt3");
     }
